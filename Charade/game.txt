@@ -1,0 +1,76 @@
+Movies
+Doctor Strange
+Spiderman
+Avatar
+Lord of the rings
+Doraemon
+Transformers
+Wakanda
+Shin Chan
+Spongebob
+mario
+Batman
+James Bond
+Aspalela - Duyung
+Ultraman
+Power Rangers
+Star wars
+Thor
+Captain America
+John Wick
+Rush Hour 
+Superman
+ghost rider
+twilight
+Robotcop
+Tomb Raider
+Frozen
+Cindrella
+The Matrix
+Zombie
+Lion King
+
+Action
+"monkey climbing a tree",
+"kangaroo boxing",
+"alligator washing a car",
+"bird building a nest",
+"dog driving a car",
+"an elephant cooking",
+"giraffe playing football",
+"chicken dancing",
+"penguin driving motor",
+"pig playing golf",
+"cat giving himself a bath",
+"bear calling his girlfriend",
+"dinosaur having ice-cream",
+"panda giving birth",
+"frog playing basketball",
+"snake skateboarding",
+"Fish Jogging",
+"tiger sweeping floor",
+"praying mantis lifting dumbell ",
+"monkey playing bowling",
+"gorilla ngajat",
+"dolphin playing badminton",
+"giraffe turn into kingkong",
+"whale reading book",
+"penguin knitting cloth",
+
+
+
+	
+
+#####   ##Music Chair
+
+100 peoples
+
+blue -
+red -
+brown -
+
+
+blue - 15 ( 0, 1,2,3,4,5,6,7,8,9,10)   1,2,3,4,5             ,6,7,8,9), 1,2,3,4,5,6,7,8,9
+red - 10 ( 
+brown - 1
+
